@@ -1,5 +1,11 @@
 ---
 title: Astral Sorcery - A Comprehensive Guide
+description: 
+published: true
+date: 2022-09-17T17:00:15.465Z
+tags: 
+editor: markdown
+dateCreated: 2022-09-17T01:59:49.460Z
 ---
 
 Astral Sorcery is a magical mod for Minecraft based on the night sky that helps you harness the power of Constellations to empower your weapons and armor and the world around you.
@@ -11,7 +17,7 @@ Current Version/Version Used:<b> 1.12.2-1.10.11</b>
 Minecraft Version Used: <b>1.12.2</b>
 
 
-    <b><a href="https://minecraft.curseforge.com/projects/astral-sorcery" target="_blank">CurseForge</a></b>
+   <b><a href="https://minecraft.curseforge.com/projects/astral-sorcery" target="_blank">CurseForge</a></b>
    <b><a href="https://github.com/HellFirePvP/AstralSorcery" target="_blank">GitHub</a></b>
     <b><a href="https://discord.gg/q37VRcT" target="_blank">Discord</a></b>
 
