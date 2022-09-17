@@ -2,7 +2,7 @@
 title: Astral Sorcery - A Comprehensive Guide
 description: 
 published: true
-date: 2022-09-17T17:00:15.465Z
+date: 2022-09-17T17:00:29.295Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T01:59:49.460Z
