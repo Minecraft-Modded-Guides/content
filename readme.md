@@ -1,3 +1,13 @@
+---
+title: readme
+description: 
+published: false
+date: 2022-09-17T16:57:12.020Z
+tags: 
+editor: markdown
+dateCreated: 2022-09-17T01:59:46.107Z
+---
+
 # Welcome to the Minecraft Guides
 
 Using Github we are able to update and edit each guide without having to take each guide offline! This also allows other GitHub users to add updates to each guide whether it be corrections or updates. This also allows us to save older versions of each guide as an archive.
