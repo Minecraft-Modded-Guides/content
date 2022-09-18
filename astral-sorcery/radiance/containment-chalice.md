@@ -2,7 +2,7 @@
 title: Containment Chalice
 description: 
 published: true
-date: 2022-09-18T03:47:31.581Z
+date: 2022-09-18T03:49:04.057Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T02:04:50.285Z
@@ -22,7 +22,7 @@ Not all items require an Attuned Crystal to be crafted.
 
 Right-click your altar to begin the crafting process. As the process goes on, you will notice the relays will have a “Ghost” image of the item that it requires. Right-click the item into the relay:
 
-![Crafting Process with Altar and relays](Altar%20Relay%20crafting.jpg)
+![Crafting Process with Altar and relays](./containment-chalice/Altar%20Relay%20crafting.jpg)
 
 The above Alter has Spectial Relay's that are too close together, do not do this!
 
@@ -30,20 +30,20 @@ Once finished, the item will appear on top of the Altar.
 
 The Containment Chalice does a few things and can be very useful when paired with tech mods. The Chalice will hold 24MB of liquids. This means it will hold Liquid Starlight, water and lava. On its own it works as a good solution for holding Liquid Starlight.
 
-![A single Containment Chalice ](Single%20Challice.jpg)
+![A single Containment Chalice ](./containment-chalice/Single%20Challice.jpg)
 
 What's special about this Chalice is when you stand them next to each other when filled with different liquids. Filling one with Water and one with Liquid Starlight will cause the water and Starlight particles to interact with each other, creating blocks of Ice. This is because when Starlight touches water it turns into ice:
 
-![Challice interaction](Challice%20interaction.jpg)
+![Challice interaction](./containment-chalice/Challice%20interaction.jpg)
 
 These Chalices do not have an inventory so the Ice will drop on the ground until they disappear or get picked up. Another great thing is that the ice created does not use up a whole bucket of each liquid, so 24 buckets should net you a few stacks of ice.
 
 You can also put 2 Chalices filled with water and Lava next to each other and have the same effect but instead of ice it will form cobblestone, smooth stone or obsidian at random:
 
-![Lava and water in Challice](Lava%20and%20water%20in%20Challice.jpg)
+![Lava and water in Challice](./containment-chalice/Lava%20and%20water%20in%20Challice.jpg)
 
 You can also combine 3 Chalices filled with Water, Lava and Liquid Starlight and collect other blocks such as Sand, ores and other goodies like Rock Crystals and Aquamarine Ore:
 
-![3 Chalices](3%20Chalices.jpg)
+![3 Chalices](./containment-chalice/3%20Chalices.jpg)
 
 These Chalices work well with other mods and you can pump liquids in and out from the bottom of them. Just be very careful where you place them and don't leave them running without a method of picking up the drops.
