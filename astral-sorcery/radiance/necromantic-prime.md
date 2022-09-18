@@ -2,7 +2,7 @@
 title: Evershifting Fountain, Fosic Resonator & Neromantic Prime
 description: 
 published: true
-date: 2022-09-18T04:14:33.225Z
+date: 2022-09-18T04:20:21.574Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T02:05:16.788Z
@@ -16,7 +16,8 @@ The main liquids are water and lava, and in order to find out where these liquid
 
 This will tell you where there are water or lava deposits. You will need to build your Ever Shifting Fountain above one of these points.
 
->>>>> When you sneak-click the Ichosic Resonator it will act like a Fosic Resonator.
+>When you sneak-click the Ichosic Resonator it will act like a Fosic Resonator.
+{.is-info}
 
 Check your Astral Tome for details on how to build the Fountain. Once built, you will need to add more parts to it in order for it to work fully.
 
