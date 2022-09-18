@@ -2,7 +2,7 @@
 title: readme
 description: 
 published: false
-date: 2022-09-17T16:57:12.020Z
+date: 2022-09-18T04:47:06.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T01:59:46.107Z
@@ -25,7 +25,12 @@ We will always give you details on why your request has been denied.
 
 
 ## Folder Layout
-There are 3 types of file extension that is allowed: .HTML, .txt and .MD format (more details on MarkDown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
+There are 3 types of file extension that are allowed: .HTML, .txt and .MD format (more details on MarkDown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
-Each mod has its own Folder and in that Folder is the page (mypage.md for example) with all the content. Any images that are attached to each page are within the same folder as the page and need to be in lowercase. Each folder is named in lowercase with hyphen like that worda-worb-wordc. You can also add digits if needed for more understanding.
+Each mod has its own Folder. Any images that are attached to each page are within the folder of the page.
+
+>The folder name is the same than the page content file
+{.is-info}
+
+Page name are in lowercase with hyphen like that worda-worb-wordc. You can also add digits if needed for more understanding.
 
