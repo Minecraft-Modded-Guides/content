@@ -1,5 +1,11 @@
 ---
-title: 'Containment Chalice'
+title: Containment Chalice
+description: 
+published: true
+date: 2022-09-18T03:47:31.581Z
+tags: 
+editor: markdown
+dateCreated: 2022-09-17T02:04:50.285Z
 ---
 
 The first item that should be crafted is the Containment Chalice (this will also demonstrate how crafting now works). Once the required items are in the table, there will be a picture (just like before) on the right side of the table that will confirm that you have all the right reagents.
@@ -12,7 +18,7 @@ Always make sure you put down as many relays as the recipe asks for: six floatin
 
 Not all items require an Attuned Crystal to be crafted.
 
-![Relay Altar placement](Relay%20Altar%20placement.jpg)
+![Relay Altar placement](./containment-chalice/Relay%20Altar%20placement.jpg)
 
 Right-click your altar to begin the crafting process. As the process goes on, you will notice the relays will have a “Ghost” image of the item that it requires. Right-click the item into the relay:
 
