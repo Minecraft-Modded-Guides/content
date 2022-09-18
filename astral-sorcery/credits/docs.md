@@ -1,14 +1,11 @@
 ---
 title: Credits
-taxonomy:
-    category:
-        - docs
-visible: true
-twitterenable: true
-twittercardoptions: summary
-facebookenable: true
-jscomments:
-    active: false
+description: 
+published: true
+date: 2022-09-18T00:03:07.098Z
+tags: 
+editor: markdown
+dateCreated: 2022-09-17T02:00:05.372Z
 ---
 
 **HellFirePVP** - AstralSorcery - Thank you for the mod!
