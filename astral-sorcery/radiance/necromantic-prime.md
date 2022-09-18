@@ -2,7 +2,7 @@
 title: Evershifting Fountain, Fosic Resonator & Neromantic Prime
 description: 
 published: true
-date: 2022-09-18T03:50:17.396Z
+date: 2022-09-18T04:14:33.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T02:05:16.788Z
